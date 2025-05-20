@@ -1,7 +1,7 @@
 <h1>Event Hub</h1>
 <p>For this project, we were to make a simple event hub with upcoming and past events.</p>
 <a href="https://marisavertz.github.io/Event_Hub/">
-  <img src="https://raw.githubusercontent.com/MarisaVertz/portfolio/refs/heads/main/assets/images/portfolio_screenshot.png" width="500">
+  <img src="https://raw.githubusercontent.com/MarisaVertz/Event_Hub/refs/heads/main/eventhubscreenshot.png" width="500">
 </a>
 <br><br>
 <a href="https://marisavertz.github.io/Event_Hub/">
